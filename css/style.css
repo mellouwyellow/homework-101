@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+
+
+img{
+    width: 450px;
+}
+body {background-color: mediumpurple;}
+h1{
+   
+    color:mintcream;
+    font-family: 'Lemon', serif;
+    background-color: cornflowerblue;
+    width: 515px ;
+    height: 50px;
+    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+padding-left: 10px;
+padding-top: 15px;
+border: 5px solid mintcream
+
+}
+h2{
+    text-align: center;
+    color: mistyrose;
+    font-family: 'Courier New', Courier, monospace
+
+ 
+}
+
+h3{ 
+    text-align: center;
+    color: pink;
+font-family: 'Courier New', Courier, monospace
+}
+p{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: aliceblue;
+
+}
+.me{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 15px solid mintcream;
+ 
+    
+}
+.me #rcorners1 {
+    border-radius: 15px;
+    background: #F5FFFA;
+    padding:15px;
+    width: 200px;
+    height: 150px;
+}
+
+.she{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    border: 15px solid blanchedalmond
+
+}
+.group1{
+    background-color: mediumslateblue;
+    border: 5px solid oldlace;
+
+}
+.group2{ 
+    background-color: mediumorchid;
+    border: 5px solid mintcream;
+    margin-top: 100px;
+}
+.group3{
+   margin-left: auto;
+   margin-right: auto;
+}
+div.container{
+    text-align: center;
+border: 15px solid powderblue;
+padding-left: 50px;
+padding-right: 50px;
+}
+div.container2{
+    text-align: center;
+}
+.league{
+    display: block;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid mistyrose
+    
+}
+.container{
+    font-size: medium;
+}
+.button{
+    size: 50px;
+}
